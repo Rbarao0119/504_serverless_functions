@@ -1,6 +1,6 @@
 # 504_serverless_functions
 ### Loom
-- URL:
+- URL:https://www.loom.com/share/fe3a676978154be99ede42653dc0b411?sid=e1516901-c0ef-4066-bb19-71ba53f5ef36
 
 GCP & OCI
 
