@@ -19,6 +19,11 @@ This environment uses **key-based authentication**, which provides tighter secur
 - GCP: 'https://python-gcp-561326745061.europe-west1.run.app'
 - OCI:'https://ncpa5n5hzgq.us-ashburn-1.functions.oci.oraclecloud.com/20181201/functions/ocid1.fnfunc.oc1.iad.amaaaaaa47cp3kiakzxus4s5za5bulxuq44vshvrmsxzer62uw44pj4myy4a/actions/invoke' 
 
+### Screenshots:
+![OCI](images/OCI.png)
+
+![GCP](images/GCP.png)
+
 ### Comparison 
 Both GCP & OCI successfully hosted the A1C classification function, but they differ in user experience and configuration depth. GCP offered a faster and easier process, which was more ideal for me. Its unauthenticated HTTP trigger allowed for immediate testing without additional setup, and the built-in monitoring and logging tools simplified troubleshooting. 
 
